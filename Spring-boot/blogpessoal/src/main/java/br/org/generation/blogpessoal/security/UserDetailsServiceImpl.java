@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 import br.org.generation.blogpessoal.model.Usuario;
 import br.org.generation.blogpessoal.repository.UsuarioRepository;
 
-	/**
+/**
 	 *  Classe UserDetailsServiceImpl 
 	 * 
 	 *  Implementa a interface UserDetailsService, que é responsável por recuperar os dados
